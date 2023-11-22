@@ -2,17 +2,17 @@
 
 CS 665 Project 1: An Application that Uses Database Services
 
-***** General Description **************
+***** General Description *******
 
 In this project, you and your group members will develop a desktop/web/mobile application that uses relational databases. NoSQL or XML databases are not allowed as they do not reflect the database relations we’ve covered in this class. This is a group project, and it is OK if you choose to complete it solo. 
 It is recommended that you choose from popular database software such as 1) SQL Server Express, 2) MySQL, 3) SQLite, 4) Postgre SQL, etc. 
 
-********** Group Formation *************
+****** Group Formation ********
 
 Please go to Blackboard to form groups.  
 The group size should be 1 – 3 students. Undergraduates can team up with graduate students. 
 
-****************Database Requirements (50% of the project weight) ***************
+*****Database Requirements (50% of the project weight) *****
 
 Please propose a database to model some mock businesses, for example, Bike rentals, community libraries, Employee Management systems, and Service Billing software. 
 -	The database should have at least 4 tables, where each table is in 3NF. 
@@ -24,17 +24,17 @@ Once created, please use SQL statements to populate each table by placing at lea
 Please also have SQL statements to perform CRUD (please place them into another file.)
 
  
-************Application Requirements (20%) ************************
+*****Application Requirements (20%) *****
 
 Each team may choose their own programming languages/frameworks to build a GUI application for your database. The app should serve as a simple front end to perform CRUD on your database. Also have some predefined SQL statements (such as SQL performing join on multiple tables and subqueries) into buttons to display the result from your database.
 Please include some pre-defined buttons in your app to demonstrate some joint search results. 
 
-***************Git Requirements (20%) ************************
+*******Git Requirements (20%)********
 
 Please create a private GitHub repository for this project. Each group member should do a sufficient share of the work, such as having at least three git commits toward the project. Each commit should make non-trivial contributions, such as adding handlers to buttons and writing several SQL statements. Fixing typos in docs is important but should be considered only trivial. 
 You do not need to invite the instructor or TAs to your private repository. Please explain each important commit (by viewing the commit content) when making the required project video. 
 
-***************** Submission Requirements (10%) **********************
+****** Submission Requirements (10%) ******
 
 Submission will be done through Blackboard. Please prepare the following files:
 1.	db_description.md; A description of your database, including tables, attributes, primary keys, foreign keys, foreign key constraints, FDs, whether in 3NF, and one or two rows of sample data for each table. 
